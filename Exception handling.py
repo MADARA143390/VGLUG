@@ -1,4 +1,4 @@
-try:
+try:#try block
     # Prompt the user for a number and convert it to an integer
     num = int(input("Enter the number:"))
     
